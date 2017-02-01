@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/joshbedo/react-redux-webpack-starter/issues"
   },
-  "homepage": "https://github.com/joshbedo/react-redux-webpack-starter#readme"
+  "homepage": "https://github.com/joshbedo/react-redux-webpack-starter#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "helmet": "^3.4.0",
+    "logfmt": "^1.2.0",
+    "react": "^15.4.2"
+  }
 }
